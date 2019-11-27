@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My loved book:
+* book1
+* book2
+* book3
+* book4
